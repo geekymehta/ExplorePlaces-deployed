@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "DB_USER" : "sumitmehta513",
+        "DB_PASSWORD" : "9911551540",
+        "DB_NAME" : "your_places",
+        "API_KEY" : "13adffde62c8618833a31edb4007451c",
+        "JWT_KEY" : "dimsum"
+    }
+}
