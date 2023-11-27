@@ -1,4 +1,4 @@
-# Your Places
+# Explore Places
 
 Live instance is running at https://your-places-frontend.web.app/
 
